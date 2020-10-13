@@ -1,0 +1,7 @@
+D:\SteamLibrary\steamapps\common\Helltaker\Helltaker_DubMod\Helltaker_DubMod.dll
+D:\SteamLibrary\steamapps\common\Helltaker\Helltaker_DubMod\Helltaker_DubMod.pdb
+C:\Users\IZURII\source\repos\Helltaker_Mod\Helltaker_DubMod\obj\Debug\Helltaker_DubMod.csprojAssemblyReference.cache
+C:\Users\IZURII\source\repos\Helltaker_Mod\Helltaker_DubMod\obj\Debug\Helltaker_DubMod.csproj.CoreCompileInputs.cache
+C:\Users\IZURII\source\repos\Helltaker_Mod\Helltaker_DubMod\obj\Debug\Helltaker_DubMod.csproj.CopyComplete
+C:\Users\IZURII\source\repos\Helltaker_Mod\Helltaker_DubMod\obj\Debug\Helltaker_DubMod.dll
+C:\Users\IZURII\source\repos\Helltaker_Mod\Helltaker_DubMod\obj\Debug\Helltaker_DubMod.pdb
